@@ -1,7 +1,7 @@
 ![MasterHead](https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47y2nakzp6uxq30pc4fkgtaiurxioytysx13qu75gx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Kareem Jamal</h1>
 <h3 align="center">A passionate data science/AI student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1e/56/d5/1e56d5358ea294e1bf44f67597f6d69b.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif?cid=ecf05e47mpwffb0d0fbj9k4e2ogd1sln2x58v9jgrejnjo08&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Machine learing / computer vision**
 

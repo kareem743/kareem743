@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kareem Jamal</h1>
 <h3 align="center">A passionate data science/AI student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1e/56/d5/1e56d5358ea294e1bf44f67597f6d69b.gif">
+
 - 🌱 I’m currently learning **Machine learing / computer vision**
 
 - 📫 How to reach me **kareemy8@gmail.com**

@@ -3,7 +3,7 @@
 <h3 align="center">A passionate data science/AI student</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif?cid=ecf05e47mpwffb0d0fbj9k4e2ogd1sln2x58v9jgrejnjo08&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Machine learing / computer vision**
+- 🌱 I’m currently learning **Machine learing / GraphRags**
 
 - 📫 How to reach me **kareemy8@gmail.com**
 
